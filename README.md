@@ -1,4 +1,4 @@
-This Github repository contains source code for a hybrid ConvLSTM model used for Copy Move Image Forgery Detection
+This Github repository contains source code for a"ForgeDtSTNet: A Spatio-Temporal Deep Learning Approach for Accurate Copy-Move Forgery Detection in Digital Images".
 
 Dataset Links:
 CASIA2.0 https://github.com/namtpham/casia2groundtruth  
