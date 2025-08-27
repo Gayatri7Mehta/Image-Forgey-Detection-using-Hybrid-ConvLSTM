@@ -7,5 +7,5 @@ CoMoFoD https://www.vcl.fer.hr/comofod/
 Cocoglide https://www.grip.unina.it/download/prog/TruFor/CocoGlide.zip
 
 
-This work has already been submitted to "The Visual Computer" journal and under review status.
+This work has already been submitted to a reputed journal and under review status.
 For any query, kindly write to 500091474@stu.upes.ac.in
